@@ -1,0 +1,24 @@
+# Abaikan folder environment
+venv/
+.env/
+
+# Abaikan file Python cache dan build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Abaikan file OS tertentu
+.DS_Store
+Thumbs.db
+
+# Abaikan file besar library
+*.dll
+*.exe
+*.pdb
+*.lib
+*.ncb
+venv/
+__pycache__/
+*.pyc
